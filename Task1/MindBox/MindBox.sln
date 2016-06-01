@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox", "MindBox\MindBox.csproj", "{711A2C6C-09D0-4B7B-97F2-F9DB54D6FA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTest", "MindBoxTest\MindBoxTest.csproj", "{DEAB8F25-4BB0-448D-B67D-7D11B58C4031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711A2C6C-09D0-4B7B-97F2-F9DB54D6FA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711A2C6C-09D0-4B7B-97F2-F9DB54D6FA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711A2C6C-09D0-4B7B-97F2-F9DB54D6FA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711A2C6C-09D0-4B7B-97F2-F9DB54D6FA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEAB8F25-4BB0-448D-B67D-7D11B58C4031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAB8F25-4BB0-448D-B67D-7D11B58C4031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAB8F25-4BB0-448D-B67D-7D11B58C4031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAB8F25-4BB0-448D-B67D-7D11B58C4031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
